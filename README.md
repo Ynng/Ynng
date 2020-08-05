@@ -16,8 +16,8 @@
 <br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ynng&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ynng&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ynng&layout=compact)
 
 <a href="https://github.com/psarahdactyl/libigl-vr-viewer-version">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=psarahdactyl&repo=libigl-vr-viewer-version" />
