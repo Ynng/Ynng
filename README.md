@@ -36,7 +36,6 @@
 ----
 
 ### Find me elsewhere:
-
 [<img align="left" alt="DMOJ Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/dmoj.png">](https://dmoj.ca/user/Ynng11626)
 [<img align="left" alt="Youtube Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/youtube.png">](https://www.youtube.com/channel/UC5qAOjtSdCkPEy1BUM78ruw?view_as=subscriber)
 [<img align="left" alt="Steam Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/steam.png">](https://steamcommunity.com/id/Ynnnng/)
