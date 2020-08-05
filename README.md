@@ -12,6 +12,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=psarahdactyl&repo=libigl-vr-viewer-version" />
 </a>
 
+<br/>
+<br/>
+
 ### Find me elsewhere:
 
 [<img align="left" alt="DMOJ Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/dmoj.png">](https://dmoj.ca/user/Ynng11626)
@@ -21,4 +24,3 @@
 [<img align="left" alt="LinkedIn Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/linkedin.png">](https://www.linkedin.com/in/kevin-huang-b67b9817a/)
 [<img align="left" alt="Instagram Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/instagram.png">](https://www.instagram.com/_ynng_/)
 [<img align="left" alt="Anilist Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/anilist.png">](https://anilist.co/user/Ynng/)
-<br/>
