@@ -1,6 +1,6 @@
 ## Hi there, I'm [Kevin!](https://www.ynng.ca) 👋
 
-### Who I am
+### I'm a ...
 - 🌎 High School student from Markham, Ontario, Canada.
 - 🔌 VRC <img align="center" alt="Vex Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/vex.png"> and FRC <img align="center" alt="First Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/first.jpg"> Participant
 - 💻 (possible) (hopefully) (future) Computer Science student
