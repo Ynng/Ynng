@@ -4,11 +4,11 @@ Hi, I'm Kevin Huang, a High School student from Ontario, Canada.
 
 ### Find me elsewhere:
 
-* [<img align="left" alt="Youtube Link" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/youtube.svg">](https://www.youtube.com/channel/UC5qAOjtSdCkPEy1BUM78ruw?view_as=subscriber) Kevin Huang
+* [<img align="left" alt="Youtube Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/youtube.svg">](https://www.youtube.com/channel/UC5qAOjtSdCkPEy1BUM78ruw?view_as=subscriber) Kevin Huang
 
-* [<img align="left" alt="DMOJ Link" height = "16px" src = "https://static.dmoj.ca/static/icons/logo.d0dbdf0b98be.svg">](https://dmoj.ca/user/Ynng11626) Ynng11626
+* [<img align="left" alt="DMOJ Link" height = "24px" src = "https://static.dmoj.ca/static/icons/logo.d0dbdf0b98be.svg">](https://dmoj.ca/user/Ynng11626) Ynng11626
 
-* [<img align="left" alt="Steam Link" height = "16px" src = "https://steamstore-a.akamaihd.net/public/shared/images/header/globalheader_logo.png?t=962016">](https://steamcommunity.com/id/Ynnnng/) Ynng
+* [<img align="left" alt="Steam Link" height = "24px" src = "https://steamstore-a.akamaihd.net/public/shared/images/header/globalheader_logo.png?t=962016">](https://steamcommunity.com/id/Ynnnng/) Ynng
 <br/>
 
 ### Stats
