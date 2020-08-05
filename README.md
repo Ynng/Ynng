@@ -20,12 +20,15 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ynng&repo=NetEase-Cloud-Music-DiscordRPC" />
 </a>
 
+
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
+
+----
 
 ### Find me elsewhere:
 
