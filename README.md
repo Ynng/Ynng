@@ -5,6 +5,7 @@
 - 💻 (possible) (future) Computer Science student
 - ✨ VR enthusiast, Robotics enthusiast
 
+----
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ynng&count_private=true)
 
