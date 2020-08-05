@@ -1,7 +1,7 @@
 ## Hi there, I'm [Kevin!](https://www.ynng.ca) 👋
 
 ### I'm a High School student from Markham, Ontario, Canada.
-- 🔌 I'm currently participating in VRC <img alt="Vex Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/vex.png"> and FRC <img alt="First Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/first.jpg">
+- 🔌 I'm currently participating in VRC <img align="center" alt="Vex Robotics" height = "25px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/vex.png"> and FRC <img align="center" alt="First Robotics" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/first.jpg">
 - 💻 I also participate in a variety of competitive programming contests
 - 😃 VR enthusiast, Robotics enthusiast
 
