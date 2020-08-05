@@ -4,7 +4,7 @@ Hi, I'm Kevin Huang, a High School student from Ontario, Canada.
 
 ### Links to things:
 
-[<img align="left" alt="Youtube Link" width = "25px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/youtube.svg">](https://www.youtube.com/channel/UC5qAOjtSdCkPEy1BUM78ruw?view_as=subscriber)
+[<img align="left" alt="Youtube Link" width = "30px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/youtube.svg">](https://www.youtube.com/channel/UC5qAOjtSdCkPEy1BUM78ruw?view_as=subscriber)
 
 ### Stats
 
