@@ -2,9 +2,14 @@
 
 Hi, I'm Kevin Huang, a High School student from Ontario, Canada. 
 
-### Links to things:
+### Find me elsewhere:
 
 [<img align="left" alt="Youtube Link" width = "30px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/youtube.svg">](https://www.youtube.com/channel/UC5qAOjtSdCkPEy1BUM78ruw?view_as=subscriber)
+
+[<img align="left" alt="DMOJ Link" width = "30px" src = "/dmoj.svg">](https://dmoj.ca/user/Ynng11626)
+
+[<img align="left" alt="Youtube Link" width = "30px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/youtube.svg">](https://www.youtube.com/channel/UC5qAOjtSdCkPEy1BUM78ruw?view_as=subscriber)
+<br/>
 
 ### Stats
 
