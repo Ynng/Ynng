@@ -1,8 +1,16 @@
-### Hi there, I'm [Kevin!](https://www.ynng.ca)
+## Hi there, I'm [Kevin!](https://www.ynng.ca)
 
-## I'm a High School student from Ontario, Canada.
+### I'm a High School student from Ontario, Canada.
 - I'm currently participating in Vex Robotics Competition <img alt="Vex Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/vex.png"> and First Robotics Competition <img alt="First Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/first.jpg">
 - I also participate in varies competitive programming contests
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Ynng&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ynng&layout=compact)
+
+<a href="https://github.com/psarahdactyl/libigl-vr-viewer-version">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=psarahdactyl&repo=libigl-vr-viewer-version" />
+</a>
 
 ### Find me elsewhere:
 
@@ -14,11 +22,3 @@
 [<img align="left" alt="Instagram Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/instagram.png">](https://www.instagram.com/_ynng_/)
 [<img align="left" alt="Anilist Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/anilist.png">](https://anilist.co/user/Ynng/)
 <br/>
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Ynng&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ynng&layout=compact)
-
-<a href="https://github.com/psarahdactyl/libigl-vr-viewer-version">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=psarahdactyl&repo=libigl-vr-viewer-version" />
-</a>
