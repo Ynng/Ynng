@@ -15,5 +15,6 @@
 [<img align="left" alt="Anilist Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/anilist.png">](https://anilist.co/user/Ynng/)
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ynng)
-![Ynng's github stats](https://github-readme-stats.vercel.app/api?username=Ynng&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ynng&layout=compact)
+<br/>
+![Ynng's github stats](https://github-readme-stats.vercel.app/api?username=Ynng&count_private=true)
