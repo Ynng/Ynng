@@ -12,17 +12,17 @@
 
 ### Cool Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Ynng&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Ynng&count_private=true&theme=dark)
 
 ----
 
 ### What I'm working on right now
 
 <a href="https://github.com/psarahdactyl/libigl-vr-viewer-version">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=psarahdactyl&repo=libigl-vr-viewer-version" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=psarahdactyl&repo=libigl-vr-viewer-version&theme=dark" />
 </a>
 <a href="https://github.com/Ynng/NetEase-Cloud-Music-DiscordRPC">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ynng&repo=NetEase-Cloud-Music-DiscordRPC" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ynng&repo=NetEase-Cloud-Music-DiscordRPC&theme=dark" />
 </a>
 
 
