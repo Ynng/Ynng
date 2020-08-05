@@ -16,9 +16,9 @@
 <br/>
 
 
-<a href="https://github.com/Ynng">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ynng&layout=compact" />
-</a>
-<a href="https://github.com/Ynng">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ynng&count_private=true" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ynng&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Ynng&count_private=true)
+
+<a href="https://github.com/psarahdactyl/libigl-vr-viewer-version">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=psarahdactyl&repo=libigl-vr-viewer-version" />
 </a>
