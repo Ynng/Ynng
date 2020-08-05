@@ -2,8 +2,10 @@
 
 ### I'm a High School student from Markham, Ontario, Canada.
 - 🔌 VRC <img align="center" alt="Vex Robotics" height = "25px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/vex.png"> and FRC <img align="center" alt="First Robotics" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/first.jpg"> Participant
-- 💻 (possible) (future) Computer Science student
+- 💻 (possible) (hopefully) (future) Computer Science student
 - ✨ VR enthusiast, Robotics enthusiast
+- 📓 Currently learning about motion profiling
+- 💬 Ask me anything [Here](https://github.com/Ynng/Ynng/issues)
 
 ----
 
