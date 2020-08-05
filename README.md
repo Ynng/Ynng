@@ -1,8 +1,9 @@
-## Hi there, I'm [Kevin!](https://www.ynng.ca)
+## Hi there, I'm [Kevin!](https://www.ynng.ca) 👋
 
 ### I'm a High School student from Ontario, Canada.
-- I'm currently participating in Vex Robotics Competition <img alt="Vex Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/vex.png"> and First Robotics Competition <img alt="First Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/first.jpg">
-- I also participate in varies competitive programming contests
+- 🔌 I'm currently participating in Vex Robotics Competition <img alt="Vex Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/vex.png"> and First Robotics Competition <img alt="First Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/first.jpg">
+- 💻 I also participate in varies competitive programming contests
+- 👓 I'm a big fan of VR
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ynng&count_private=true)
@@ -12,6 +13,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=psarahdactyl&repo=libigl-vr-viewer-version" />
 </a>
 
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
