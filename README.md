@@ -1,9 +1,7 @@
 ### Hi there, I'm [Kevin!](https://www.ynng.ca)
 
 ## I'm a High School student from Ontario, Canada.
-* 🤖 I'm currently participating in Vex Robotics Competition and First Robotics Competition
-* 
-* I'm interested in anything technical.
+- I'm currently participating in Vex Robotics Competition <img alt="Vex Robotics" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/vex.png"> and First Robotics Competition <img alt="First Robotics" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/first.jpeg">
 
 ### Find me elsewhere:
 
