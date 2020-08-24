@@ -44,3 +44,4 @@
 [<img align="left" alt="LinkedIn Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/linkedin.png">](https://www.linkedin.com/in/kevin-huang-b67b9817a/)
 [<img align="left" alt="Instagram Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/instagram.png">](https://www.instagram.com/_ynng_/)
 [<img align="left" alt="Anilist Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/anilist.png">](https://anilist.co/user/Ynng/)
+[<img align="left" alt="Score Saber (Beat Saber) Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/beatsaber.png">](https://scoresaber.com/u/76561198283405458)
