@@ -2,9 +2,9 @@
 
 ### I'm a ...
 - 🌎 High School student from Markham, Ontario, Canada.
-- 🔌 Robotics enthusiast, VRC <a href="https://www.vexrobotics.com/competition"> <img align="center" alt="Vex Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/vex.png"></a> and FRC <a href="https://www.firstinspires.org/robotics/frc"><img align="center" alt="First Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/first.jpg"></a> Participant
-- 🎮 VR enthusiast. Being an indie game-developer sounds pretty nice...
-- 🎨 UX Design
+- 🔌 Robotics enthusiast, VRC <a href="https://www.vex.com/competition"> <img align="center" alt="Vex Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/vex.png"></a> and FRC <a href="https://www.firstinspires.org/robotics/frc"><img align="center" alt="First Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/first.jpg"></a> Participant
+- 🎮 VR enthusiast, Amateur game-developer
+- 🎨 UX Designer
 - 📓 Currently learning about motion profiling
 - 💻 possibly hopefully future Computer Science student
 - 💬 Ask me anything [Here](https://github.com/Ynng/Ynng/issues)
