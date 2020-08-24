@@ -19,8 +19,8 @@
 
 ### What I'm working on right now
 
-<a href="https://github.com/psarahdactyl/libigl-vr-viewer-version">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=psarahdactyl&repo=libigl-vr-viewer-version&theme=dark" />
+<a href="#">
+  <img align="left" src="https://raw.githubusercontent.com/Ynng/Ynng/master/vex.svg" />
 </a>
 <a href="https://github.com/Ynng/NetEase-Cloud-Music-DiscordRPC">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ynng&repo=NetEase-Cloud-Music-DiscordRPC&theme=dark" />
