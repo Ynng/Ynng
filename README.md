@@ -17,7 +17,7 @@
 
 ----
 
-### What I'm working on right now
+### Currently Working On:
 
 <a href="#">
   <img align="left" src="https://raw.githubusercontent.com/Ynng/Ynng/master/vex.svg" />
@@ -27,6 +27,7 @@
 </a>
 
 
+<br/>
 <br/>
 <br/>
 <br/>
