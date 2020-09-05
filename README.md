@@ -23,7 +23,7 @@
   <img align="left" src="https://raw.githubusercontent.com/Ynng/Ynng/master/vex.svg" />
 </a>
 <a href="https://github.com/Ynng/NetEase-Cloud-Music-DiscordRPC">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ynng&repo=NetEase-Cloud-Music-DiscordRPC&theme=dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Ynng&repo=NetEase-Cloud-Music-DiscordRPC&theme=dark" />
 </a>
 
 
