@@ -22,8 +22,8 @@
 <a href="#">
   <img align="left" src="https://raw.githubusercontent.com/Ynng/Ynng/master/vex.svg" />
 </a>
-<a href="https://github.com/Ynng/NetEase-Cloud-Music-DiscordRPC">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Ynng&repo=NetEase-Cloud-Music-DiscordRPC&theme=dark" />
+<a href="https://github.com/Ynng/Highschool-Discord">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Ynng&repo=Highschool-Discord&theme=dark" />
 </a>
 
 
