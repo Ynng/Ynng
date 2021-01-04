@@ -13,7 +13,7 @@
 
 ### Cool Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Ynng&count_private=true&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Ynng&count_private=true)
 
 ----
 
@@ -23,7 +23,7 @@
   <img align="left" src="https://raw.githubusercontent.com/Ynng/Ynng/master/vex.svg" />
 </a>
 <a href="https://github.com/Ynng/Highschool-Discord">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Ynng&repo=Highschool-Discord&theme=dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Ynng&repo=Highschool-Discord" />
 </a>
 
 
