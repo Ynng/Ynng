@@ -19,8 +19,8 @@
 
 ### Currently Working On:
 
-<a href="#">
-  <img align="left" src="https://raw.githubusercontent.com/Ynng/Ynng/master/vex.svg" />
+<a href="https://github.com/81208X/VRC2020">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=81208X&repo=VRC2020" />
 </a>
 <a href="https://github.com/Ynng/Highschool-Discord">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Ynng&repo=Highschool-Discord" />
