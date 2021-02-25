@@ -1,11 +1,11 @@
-## Hi there, I'm [Kevin!](https://www.ynng.ca) 👋
+## Hi there, I'm [Kevin](https://www.ynng.ca)! <img src="https://raw.githubusercontent.com/MiguelRAvila/MiguelRAvila/master/img/wave.gif" width="24px">
 
 ### I'm a ...
 - 🌎 High School student from Markham, Ontario, Canada.
-- 🔌 Robotics enthusiast, VRC <a href="https://www.vex.com/competition"> <img align="center" alt="Vex Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/vex.png"></a> and FRC <a href="https://www.firstinspires.org/robotics/frc"><img align="center" alt="First Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/first.jpg"></a> Participant
+- 🔌 Robotics enthusiast, VRC <a href="https://www.vex.com/competition"> <img align="center" alt="Vex Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/vex.png"></a> and FRC <a href="https://www.firstinspires.org/robotics/frc"><img align="center" alt="First Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/first.jpg"></a> Programmer
 - 🎮 VR enthusiast, Amateur game-developer
 - 🎨 Amateur UX Designer
-- 📓 Currently learning about motion profiling
+- 📚 Currently learning about motion profiling
 - 💻 possibly hopefully future Computer Science student
 - 💬 Ask me anything [Here](https://github.com/Ynng/Ynng/issues)
 
