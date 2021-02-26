@@ -1,4 +1,4 @@
-## Hi there, I'm [Kevin](https://www.ynng.ca)! <img src="https://raw.githubusercontent.com/MiguelRAvila/MiguelRAvila/master/img/wave.gif" width="24px">
+## Hi there, I'm [Kevin](https://www.ynng.ca)! <img src="https://raw.githubusercontent.com/Ynng/Ynng/master/wave.gif" width="24px">
 
 ### I'm a ...
 - 🌎 High School student from Markham, Ontario, Canada.
