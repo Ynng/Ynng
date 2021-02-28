@@ -17,26 +17,6 @@
 
 ----
 
-### Currently Working On:
-
-<a href="https://github.com/81208X/VRC2020">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=81208X&repo=VRC2020" />
-</a>
-<a href="https://github.com/Ynng/Highschool-Discord">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Ynng&repo=Highschool-Discord" />
-</a>
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-----
-
 ### Find me elsewhere:
 [<img align="left" alt="DMOJ Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/dmoj.png">](https://dmoj.ca/user/Ynng11626)
 [<img align="left" alt="Youtube Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/youtube.png">](https://www.youtube.com/channel/UC5qAOjtSdCkPEy1BUM78ruw?view_as=subscriber)
