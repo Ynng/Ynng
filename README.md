@@ -1,7 +1,7 @@
 ## Hi there, I'm [Kevin](https://www.ynng.ca)! <img src="https://raw.githubusercontent.com/Ynng/Ynng/master/wave.gif" width="24px">
 
 I'm a Grade 12 student interested in Robotics 🔌, Computer Graphics 💻, Competitive Programming 🏆, and Web Development 🕸
-- 🔌 Currently competing in the VRC <a href="https://www.vex.com/competition"> <img align="center" alt="Vex Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/vex.png"></a> and the FRC <a href="https://www.firstinspires.org/robotics/frc"><img align="center" alt="First Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/first.jpg"></a>
+- 🔌 Currently competing in the VRC <a href="https://www.vex.com/competition"> <img align="center" alt="Vex Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/vex.png"></a> and FRC <a href="https://www.firstinspires.org/robotics/frc"><img align="center" alt="First Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/first.jpg"></a>
 - 📚 Currently learning about motion profiling 📈 and UX design 🎨
 - 🎮 VR enthusiast, Amateur game-developer
 - 💬 Ask me anything [Here](https://github.com/Ynng/Ynng/issues)
