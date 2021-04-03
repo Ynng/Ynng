@@ -4,7 +4,7 @@
   <samp>
     「 Grade 12 Student @ 🏫 <b>Unionville High School</b> 」<br>
     「 Head Programmer @ <a href="https://www.vex.com/competition"> <img align="center" alt="Vex Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/vex.png"></a> VRC Team <b>81208X</b> 」<br>
-    「 Team Captain @ <a href="https://www.firstinspires.org/robotics/frc"><img align="center" alt="First Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/first.jpg"></a> FIRST Team <b>81208X</b> 」<br>
+    「 Team Captain @ <a href="https://www.firstinspires.org/robotics/frc"><img align="center" alt="First Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/first.jpg"></a> FRC Team <b>7721</b> 」<br>
   </samp>
 </p>
 
