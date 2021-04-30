@@ -13,8 +13,8 @@
    <p align="center">
    </br>
      <a href="https://github.com/ynng?tab=followers" target="_blank"><img alt="Followers" src="https://img.shields.io/badge/--000000?logo=RSS&logoColor=white"></a>
-     <a href="https://github.com/ynng" target="_blank"><img alt="ynng" src="https://badges.pufler.dev/visits/ynng/ynng?logo=GitHub&label=visits&color=success&logoColor=white"/></a>
-     <a href="https://github.com/ynng/ynng" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ynng/ynng?label=profile%20updated"></a>
+     <a href="https://github.com/ynng" target="_blank"><img alt="Visits" src="https://badges.pufler.dev/visits/ynng/ynng?logo=GitHub&label=Vsits&color=success&logoColor=white"/></a>
+     <a href="https://github.com/ynng/ynng" target="_blank"><img alt="Profile Last Updated" src="https://img.shields.io/github/last-commit/ynng/ynng?label=Profile%20Updated"></a>
      <a href="https://www.ynng.ca/resume.pdf" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-brightgreen"></a>
   </br>
   <img src="https://github-readme-stats.vercel.app/api?username=ynng&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img></br>
