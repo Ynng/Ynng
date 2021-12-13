@@ -6,7 +6,8 @@
 
 <p align="center"><br />
   <samp>
-    「 Computer Science Student @ 🏫 <b>University of Waterloo</b> 」<br />
+    「 First Year CS student @ 🏫 <b>University of Waterloo</b> 」<br /><br />
+     Back in Highschool: <br />
     「 Head Programmer @ <a href="https://www.vex.com/competition"> <img align="center" alt="Vex Robotics" height="16px"
         src="https://raw.githubusercontent.com/Ynng/Ynng/master/vex.png"></a> VRC Team <b>81208X</b> 」<br />
     「 Team Captain @ <a href="https://www.firstinspires.org/robotics/frc"><img align="center" alt="First Robotics"
@@ -50,7 +51,7 @@
       <img align="middle" alt="Steam Link" height="24px"
         src="https://raw.githubusercontent.com/Ynng/Ynng/master/steam.png">
     </a>
-    <a href="mailto:kh.kevinhuang.03@gmail.com" target="_blank">
+    <a href="mailto:wenqi.huang_@outlook.com" target="_blank">
       <img align="middle" alt="Gmail" height="24px" src="https://raw.githubusercontent.com/Ynng/Ynng/master/gmail.png">
     </a>
     <a href="https://www.linkedin.com/in/kevin-huang-b67b9817a/" target="_blank">
