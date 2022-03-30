@@ -1,17 +1,18 @@
 <h3 align="center">
   <samp>
-    Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.ynng.ca">Kevin Huang</a></b>
+    Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.ynng.ca">Kevin (Wenqi) Huang</a></b>
   </samp>
 </h3>
 
 <p align="center"><br />
   <samp>
-    「 First Year CS student @ 🏫 <b>University of Waterloo</b> 」<br /><br />
+    「 First Year CS student @ 🏫 <b>University of Waterloo</b> 」<br />
+    「 Currently working on <b><a href="https://github.com/CheatCod/Lodestone">Lodestone</a></b> 」<br /><br />
      Back in Highschool: <br />
     「 Head Programmer @ <a href="https://www.vex.com/competition"> <img align="center" alt="Vex Robotics" height="16px"
-        src="https://raw.githubusercontent.com/Ynng/Ynng/master/vex.png"></a> VRC Team <b>81208X</b> 」<br />
+        src="https://raw.githubusercontent.com/Ynng/Ynng/master/vex.png"></a> <a href="https://github.com/81208X/VRC2020">VRC Team <b>81208X</b></a> 」<br />
     「 Team Captain @ <a href="https://www.firstinspires.org/robotics/frc"><img align="center" alt="First Robotics"
-        height="16px" src="https://raw.githubusercontent.com/Ynng/Ynng/master/first.jpg"></a> FRC Team <b>7721</b>
+        height="16px" src="https://raw.githubusercontent.com/Ynng/Ynng/master/first.jpg"></a> <a href="https://www.uhsrobotics.org/">FRC Team <b>7721</b></a>
     」<br />
   </samp>
 </p>
@@ -38,7 +39,7 @@
     <img
       src="https://github-readme-stats.vercel.app/api?username=ynng&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555" />
     <br />
-    <samp>Contacts</samp><br />
+    <samp>Find me online</samp><br />
     <a href="https://dmoj.ca/user/Ynng11626" target="_blank">
       <img align="middle" alt="DMOJ Link" height="24px"
         src="https://raw.githubusercontent.com/Ynng/Ynng/master/dmoj.png">
@@ -54,7 +55,7 @@
     <a href="mailto:wenqi.huang_@outlook.com" target="_blank">
       <img align="middle" alt="Gmail" height="24px" src="https://raw.githubusercontent.com/Ynng/Ynng/master/gmail.png">
     </a>
-    <a href="https://www.linkedin.com/in/kevin-huang-b67b9817a/" target="_blank">
+    <a href="https://www.linkedin.com/in/ynng/" target="_blank">
       <img align="middle" alt="LinkedIn Link" height="24px"
         src="https://raw.githubusercontent.com/Ynng/Ynng/master/linkedin.png">
     </a>
