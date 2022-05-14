@@ -6,9 +6,9 @@
 
 <p align="center"><br />
   <samp>
-    「 First Year CS student @ 🏫 <b>University of Waterloo</b> 」<br />
+    「 Second Year CS student @ 🏫 <b>University of Waterloo</b> 」<br />
     「 Currently working on <b><a href="https://github.com/Lodestone-Team/client">Lodestone</a></b> 」<br />
-    「 Checkout my <a href="https://paperback.moe/">Paperback</a> <b><a href="https://extensions.ynng.ca/">Extensions repo</a></b> 」<br />
+<!--     「 Checkout my <a href="https://paperback.moe/">Paperback</a> <b><a href="https://extensions.ynng.ca/">Extensions repo</a></b> 」<br /> -->
 <!--      Back in Highschool: <br />
     「 Head Programmer @ <a href="https://www.vex.com/competition"> <img align="center" alt="Vex Robotics" height="16px"
         src="https://raw.githubusercontent.com/Ynng/Ynng/master/vex.png"></a> <a href="https://github.com/81208X/VRC2020">VRC Team <b>81208X</b></a> 」<br />
