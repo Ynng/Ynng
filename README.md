@@ -40,6 +40,9 @@
     <img
       src="https://github-readme-stats.vercel.app/api?username=ynng&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555" />
     <br />
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Ynng&theme=light" />
+    <br />
     <samp>Find me online</samp><br />
     <a href="https://dmoj.ca/user/Ynng11626" target="_blank">
       <img align="middle" alt="DMOJ Link" height="24px"
