@@ -6,7 +6,7 @@
 
 <p align="center"><br />
   <samp>
-    「 Second Year CS student @ 🏫 <b>University of Waterloo</b> 」<br />
+    「 CS student with Digital Hardware Specialization @ 🏫 <b>University of Waterloo</b> 」<br />
     「 Currently working on <b><a href="https://github.com/Lodestone-Team/client">Lodestone</a></b> 」<br />
 <!--     「 Checkout my <a href="https://paperback.moe/">Paperback</a> <b><a href="https://extensions.ynng.ca/">Extensions repo</a></b> 」<br /> -->
 <!--      Back in Highschool: <br />
