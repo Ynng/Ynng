@@ -6,7 +6,6 @@
 
 <p align="center"><br />
   <samp>
-    「 Platform Developer Intern  @ 🚗 <b>Ford</b> 」<br />
     「 CS student Specializing in Digital Hardware  @ 🏫 <b>University of Waterloo</b> 」<br />
     「 Currently working on <b><a href="https://github.com/Lodestone-Team/client">Lodestone</a></b> 」<br />
 <!--     「 Checkout my <a href="https://paperback.moe/">Paperback</a> <b><a href="https://extensions.ynng.ca/">Extensions repo</a></b> 」<br /> -->
