@@ -1,6 +1,7 @@
 ## Hi there, I'm [Kevin](https://www.ynng.ca/) 👋
 
-I'm a second year CS student at the University of Waterloo with experience in robotics, VR, web development, backend development and competitive programming.
+I'm a second year CS student at the University of Waterloo with experience in robotics, game dev, web dev, backend and competitive programming. 
+Proficient in a range of programming languages and technologies, with a passion for building innovative projects and solving complex problems.
 
 - 🌱 Currently working on [Lodestone](https://github.com/Lodestone-Team?type=source)
 - 📮 Reach me at [k255huan@uwaterloo.ca](mailto:k255huan@uwaterloo.ca)
