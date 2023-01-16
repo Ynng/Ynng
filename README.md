@@ -2,7 +2,7 @@
 
 I'm a second year CS student at the University of Waterloo with experience in robotics, game dev, web dev, backend and competitive programming.
 
-Proficient in a range of programming languages and technologies, I'm always looking for new challenges to tackle and grow my skills.
+With proficiency in a variety of programming languages and technologies, I am constantly seeking new challenges to expand my skills and abilities.
 
 I'm currently seeking an internship for Summer 2023.
 
