@@ -1,10 +1,14 @@
-## Hi there, I'm [Kevin](https://www.ynng.ca/) 👋
+## Hi there, I'm Kevin 👋
 
-I'm a second year CS student at the University of Waterloo with experience in robotics, game dev, web dev, backend and competitive programming. 
-Proficient in a range of programming languages and technologies, with a passion for building innovative projects and solving complex problems.
+I'm a second year CS student at the University of Waterloo with experience in robotics, game dev, web dev, backend and competitive programming.
 
-- 🌱 Currently working on [Lodestone](https://github.com/Lodestone-Team?type=source)
+Proficient in a range of programming languages and technologies, I'm always looking for new challenges to tackle and grow my skills.
+
+I'm currently seeking an internship for Summer 2023.
+
+- 🧭 Working on [Lodestone](https://github.com/Lodestone-Team?type=source)
 - 📮 Reach me at [k255huan@uwaterloo.ca](mailto:k255huan@uwaterloo.ca)
+- 🕸 Checkout my [website](https://www.ynng.ca/)
 
 <details>
   <summary><samp>&#9776; Details</samp></summary>
