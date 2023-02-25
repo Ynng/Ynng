@@ -1,4 +1,4 @@
-## Hi there, I'm Kevin 👋
+## Hi there, I'm Kevin 👋 I work with bits and bots
 
 I'm a second year CS student at the University of Waterloo with experience in robotics, game dev, web dev, backend and competitive programming.
 
