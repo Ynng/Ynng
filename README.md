@@ -1,12 +1,12 @@
 ## Hi there, I'm Kevin 👋 I build and explore with bits and bots
 
-I'm a second year CS student at the University of Waterloo with experience in robotics, web dev, backend, game dev and competitive programming.
+I'm a third year CS student at the University of Waterloo with experience in robotics, web dev, backend, game dev and competitive programming.
 
 With proficiency in a variety of programming languages and technologies, I am constantly seeking new challenges to expand my skills and abilities.
 
 I'm currently seeking an internship for Spring 2024.
 
-- 🏢 Robotics software developer/full stack developer summer intern at Trexo Robotics
+- 🏢 Robotics software developer/full stack developer intern at Trexo Robotics
 - 🧭 Working on [Lodestone](https://github.com/Lodestone-Team?type=source)
 - 📮 Reach me at [k255huan@uwaterloo.ca](mailto:k255huan@uwaterloo.ca)
 - 🕸 Checkout my [website](https://www.ynng.ca/)
