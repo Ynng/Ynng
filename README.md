@@ -6,7 +6,8 @@ With proficiency in a variety of programming languages and technologies, I am co
 
 I'm currently seeking an internship for Spring 2024.
 
-- 🏢 Robotics software developer/full stack developer intern at Trexo Robotics
+- 🤖 Software developer intern at Trexo Robotics 2023
+- 🏢 Platform developer intern at Ford 2022
 - 🧭 Working on [Lodestone](https://github.com/Lodestone-Team?type=source)
 - 📮 Reach me at [k255huan@uwaterloo.ca](mailto:k255huan@uwaterloo.ca)
 - 🕸 Checkout my [website](https://www.ynng.ca/)
