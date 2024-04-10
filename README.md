@@ -7,8 +7,6 @@ With proficiency in a variety of programming languages and technologies, I am co
 I'm currently seeking an internship for Fall 2024.
 
 - ⚡ Full stack intern at Tesla 2024
-- 🤖 Software developer intern at Trexo Robotics 2023
-- 🏢 Platform developer intern at Ford 2022
 - 🧭 Working on [Lodestone](https://github.com/Lodestone-Team?type=source)
 - 📮 Reach me at [k255huan@uwaterloo.ca](mailto:k255huan@uwaterloo.ca)
 - 🕸 Checkout my [website](https://www.ynng.ca/)
