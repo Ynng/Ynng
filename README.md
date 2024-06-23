@@ -4,10 +4,12 @@ I'm a third year CS student at the University of Waterloo with experience in rob
 
 With proficiency in a variety of programming languages and technologies, I am constantly seeking new challenges to expand my skills and abilities.
 
-I'm currently seeking an internship for Fall 2024.
+I'm currently seeking an internship for 2025.
 
 - ⚡ Full stack intern at Tesla 2024
-- 🧭 Working on [Lodestone](https://github.com/Lodestone-Team?type=source)
+- ⬛ Incoming backend intern at [Cube](https://www.cube.exchange/)
+- 📝 Building [calculator.moe](https://calculator.moe), a notepad calculator
+- 🧭 Made [Lodestone](https://github.com/Lodestone-Team?type=source), a game server management system
 - 📮 Reach me at [k255huan@uwaterloo.ca](mailto:k255huan@uwaterloo.ca)
 - 🕸 Checkout my [website](https://www.ynng.ca/)
 
