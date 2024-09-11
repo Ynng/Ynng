@@ -7,7 +7,7 @@ With proficiency in a variety of programming languages and technologies, I am co
 I'm currently seeking an internship for 2025.
 
 - ⚡ Full stack intern at Tesla 2024
-- 📝 Building [calculator.moe](https://calculator.moe), a notepad calculator
+- 📝 Building [calculator.moe](https://calculator.moe), a notepad calculator, and [planck](http://planckapp.com/), a cross-platform clipboard manager
 - 🧭 Made [Lodestone](https://github.com/Lodestone-Team?type=source), a game server management system
 - 📮 Reach me at [k255huan@uwaterloo.ca](mailto:k255huan@uwaterloo.ca)
 - 🕸 Checkout my [website](https://www.ynng.ca/)
