@@ -6,8 +6,8 @@ With proficiency in a variety of programming languages and technologies, I am co
 
 I'm currently seeking an internship for 2025.
 
-- ⚡ Full stack intern at Tesla 2024
-- 📝 Building [planck](https://github.com/stella-labs/planck-releases/releases), a cross-platform clipboard manager
+- 🟩 Research assistant intern at NVIDIA
+- 📝 Building [planck](https://planckapp.com), a cross-platform clipboard manager
 - 🧭 Made [Lodestone](https://github.com/Lodestone-Team?type=source), a game server management system
 - 📮 Reach me at [k255huan@uwaterloo.ca](mailto:k255huan@uwaterloo.ca)
 - 🕸 Checkout my [website](https://www.ynng.ca/)
