@@ -1,16 +1,22 @@
-## Hi there, I'm Kevin 👋 I build and explore with bits and bots
+## Hi there, I'm Kevin 👋 Software engineer with a passion for robotics
 
-I'm a third year CS student at the University of Waterloo with experience in robotics, web dev, backend, game dev and competitive programming.
+Currently seeking Summer 2025 internships!
 
-With proficiency in a variety of programming languages and technologies, I am constantly seeking new challenges to expand my skills and abilities.
+CS student at UWaterloo with a knack for robotics, web dev, and competitive programming.
 
-I'm currently seeking an internship for 2025.
+🟩 Research assistant intern at [NVIDIA GEAR](https://research.nvidia.com/labs/gear/)
 
-- 🟩 Research assistant intern at NVIDIA
-- 📝 Building [planck](https://planckapp.com), a cross-platform clipboard manager
-- 🧭 Made [Lodestone](https://github.com/Lodestone-Team?type=source), a game server management system
-- 📮 Reach me at [k255huan@uwaterloo.ca](mailto:k255huan@uwaterloo.ca)
-- 🕸 Checkout my [website](https://www.ynng.ca/)
+📋 Building [Planck](https://planckapp.com), a cross-platform clipboard manager
+
+🎮 Created [Lodestone](https://github.com/lodestone-team/lodestone), a game server management system
+
+## Let's connect
+
+📫 k255huan@uwaterloo.ca
+
+🌐 [ynng.ca](https://ynng.ca)
+
+💼 [linkedin.com/in/ynng](https://www.linkedin.com/in/ynng)
 
 <details>
   <summary><samp>&#9776; Details</samp></summary>
