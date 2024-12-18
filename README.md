@@ -8,6 +8,8 @@ CS student at UWaterloo with a knack for robotics, web dev, and competitive prog
 
 📋 Building [Planck](https://planckapp.com), a cross-platform clipboard manager
 
+📝 Building [calculator.moe](https://calculator.moe), a simple notepad calculator
+
 🎮 Created [Lodestone](https://github.com/lodestone-team/lodestone), a game server management system
 
 ## Let's connect
