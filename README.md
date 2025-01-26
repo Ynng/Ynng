@@ -4,7 +4,9 @@ Currently seeking Summer 2025 internships!
 
 CS student at UWaterloo with a knack for robotics, web dev, and competitive programming.
 
-🟩 Research assistant intern at [NVIDIA GEAR](https://research.nvidia.com/labs/gear/)
+✨ Incoming member of technical staff (intern) at [OpenAI](https://openai.com/)
+
+🟩 Prev intern research engineer at [NVIDIA GEAR](https://research.nvidia.com/labs/gear/)
 
 📋 Building [Planck](https://planckapp.com), a cross-platform clipboard manager
 
@@ -16,7 +18,7 @@ CS student at UWaterloo with a knack for robotics, web dev, and competitive prog
 
 📫 k255huan@uwaterloo.ca
 
-🌐 [ynng.ca](https://ynng.ca)
+🌐 [kevinh.cv](https://kevinh.cv)
 
 💼 [linkedin.com/in/ynng](https://www.linkedin.com/in/ynng)
 
