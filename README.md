@@ -1,8 +1,8 @@
-## Hi there, I'm Kevin 👋 Software engineer with a passion for robotics
+## Hi there, I'm Kevin 👋
 
-Currently seeking Summer 2025 internships!
+CS student at UWaterloo with a knack for robotics, web dev, and AI.
 
-CS student at UWaterloo with a knack for robotics, web dev, and competitive programming.
+Currently seeking Fall 2025 internships!
 
 ✨ Incoming member of technical staff (intern) at [OpenAI](https://openai.com/)
 
