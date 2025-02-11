@@ -18,7 +18,7 @@ Currently seeking Fall 2025 internships!
 
 📫 k255huan@uwaterloo.ca
 
-🌐 [kevinh.cv](https://kevinh.cv)
+🌐 [kevinh.cv](https://kevinh.cv/?utm_source=github)
 
 💼 [linkedin.com/in/ynng](https://www.linkedin.com/in/ynng)
 
