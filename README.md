@@ -4,7 +4,7 @@ CS student at UWaterloo with a knack for robotics, web dev, and AI.
 
 Currently seeking Fall 2025 internships!
 
-✨ Incoming member of technical staff (intern) at [OpenAI](https://openai.com/)
+✨ Member of technical staff intern at [OpenAI](https://openai.com/)
 
 🟩 Prev intern research engineer at [NVIDIA GEAR](https://research.nvidia.com/labs/gear/)
 
