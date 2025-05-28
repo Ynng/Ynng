@@ -6,13 +6,13 @@ CS student at UWaterloo with a knack for robotics, full stack, and AI.
 
 ✨ Member of technical staff intern at [OpenAI](https://openai.com/)
 
-🟩 Prev intern research engineer at [NVIDIA GEAR](https://research.nvidia.com/labs/gear/)
+🟩 Prev at [NVIDIA GEAR](https://research.nvidia.com/labs/gear/), [Tesla](https://www.tesla.com/), [Trexo Robotics](https://www.trexorobotics.com/), [Ford](https://www.ford.com/)
 
-📋 Building [Planck](https://planckapp.com), a cross-platform clipboard manager
+📋 Building [Planck](https://planckapp.com), a cross-platform clipboard manager, 500 MAU
 
-📝 Building [calculator.moe](https://calculator.moe), a simple notepad calculator
+📝 Building [calculator.moe](https://calculator.moe), a simple notepad calculator, 50 MAU
 
-🎮 Created [Lodestone](https://github.com/lodestone-team/lodestone), a game server management system
+🎮 Created [Lodestone](https://github.com/lodestone-team/lodestone), a game server management system, 1000 MAU
 
 ## Let's connect
 
