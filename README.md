@@ -1,6 +1,6 @@
 ## Hi there, I'm Kevin 👋
 
-CS student at UWaterloo with a knack for robotics, full stack, and AI.
+CS student at UWaterloo with a knack for robotics, web dev, and AI.
 
 ❗Currently seeking Fall 2025 internships!
 
