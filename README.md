@@ -1,8 +1,8 @@
 ## Hi there, I'm Kevin 👋
 
-CS student at UWaterloo with a knack for robotics, web dev, and AI.
+CS student at UWaterloo with a knack for robotics, full stack, and AI.
 
-Currently seeking Fall 2025 internships!
+❗Currently seeking Fall 2025 internships!
 
 ✨ Member of technical staff intern at [OpenAI](https://openai.com/)
 
@@ -21,6 +21,8 @@ Currently seeking Fall 2025 internships!
 🌐 [kevinh.cv](https://kevinh.cv/?utm_source=github)
 
 💼 [linkedin.com/in/ynng](https://www.linkedin.com/in/ynng)
+
+💻 [cal.com/wenqi](https://cal.com/wenqi/15min)
 
 <details>
   <summary><samp>&#9776; Details</samp></summary>
