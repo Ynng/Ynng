@@ -1,4 +1,4 @@
-## Hi there, I'm Kevin 👋
+## Hi there, I'm Kevin/Wenqi 👋
 
 CS student at UWaterloo with a knack for robotics, web dev, and AI.
 
