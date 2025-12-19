@@ -2,11 +2,9 @@
 
 CS student at UWaterloo with a knack for robotics, web dev, and AI.
 
-❗Currently seeking Fall 2025 internships!
+✨ Founding Engineer at [Datacurve](https://datacurve.ai/)
 
-✨ Member of technical staff intern at [OpenAI](https://openai.com/)
-
-🟩 Prev at [NVIDIA GEAR](https://research.nvidia.com/labs/gear/), [Tesla](https://www.tesla.com/), [Trexo Robotics](https://www.trexorobotics.com/), [Ford](https://www.ford.com/)
+🟩 Prev at [OpenAI](https://openai.com/), [NVIDIA GEAR](https://research.nvidia.com/labs/gear/), [Tesla](https://www.tesla.com/), [Trexo Robotics](https://www.trexorobotics.com/), [Ford](https://www.ford.com/)
 
 📋 Building [Planck](https://planckapp.com), a cross-platform clipboard manager, 500 MAU
 
