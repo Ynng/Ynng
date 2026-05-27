@@ -1,8 +1,10 @@
-## Hi there, I'm Kevin/Wenqi 👋
+## Hi, I'm Wenqi 👋
+
+Also Kevin, ⌘winkey, Ynng
 
 CS student at UWaterloo with a knack for robotics, web dev, and AI.
 
-✨ Founding Engineer at [Datacurve](https://datacurve.ai/)
+✨ Founding Engineer at [Datacurve](https://datacurve.ai/), author of [DeepSWE](https://deepswe.datacurve.ai/), a long-horizon agentic coding benchmark
 
 🟩 Prev at [OpenAI](https://openai.com/), [NVIDIA GEAR](https://research.nvidia.com/labs/gear/), [Tesla](https://www.tesla.com/), [Trexo Robotics](https://www.trexorobotics.com/), [Ford](https://www.ford.com/)
 
@@ -34,7 +36,7 @@ CS student at UWaterloo with a knack for robotics, web dev, and AI.
         srcset="https://github-readme-stats.vercel.app/api?username=ynng&show_icons=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ynng&show_icons=true" />
     </picture>
     <br />
     <picture>
@@ -46,7 +48,7 @@ CS student at UWaterloo with a knack for robotics, web dev, and AI.
         srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ynng&theme=light"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ynng&theme=light" />
     </picture>
     <br />
     <samp>Find me online</samp><br />
@@ -62,9 +64,6 @@ CS student at UWaterloo with a knack for robotics, web dev, and AI.
       <img align="middle" alt="Steam Link" height="24px"
         src="https://raw.githubusercontent.com/Ynng/Ynng/master/steam.png">
     </a>
-    <a href="mailto:wenqi.huang_@outlook.com" target="_blank">
-      <img align="middle" alt="Gmail" height="24px" src="https://raw.githubusercontent.com/Ynng/Ynng/master/gmail.png">
-    </a>
     <a href="https://www.linkedin.com/in/ynng/" target="_blank">
       <img align="middle" alt="LinkedIn Link" height="24px"
         src="https://raw.githubusercontent.com/Ynng/Ynng/master/linkedin.png">
@@ -79,6 +78,5 @@ CS student at UWaterloo with a knack for robotics, web dev, and AI.
     </a>
     <br />
     <br />
-
   </p>
 </details>
