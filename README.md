@@ -4,7 +4,7 @@ Also Kevin, ⌘winkey, Ynng
 
 CS student at UWaterloo with a knack for robotics, web dev, and AI.
 
-✨ Founding Engineer at [Datacurve](https://datacurve.ai/), author of [DeepSWE](https://deepswe.datacurve.ai/), a long-horizon agentic coding benchmark
+✨ Founding Research at [Datacurve](https://datacurve.ai/), author of [DeepSWE](https://deepswe.datacurve.ai/), a long-horizon agentic coding benchmark
 
 🟩 Prev at [OpenAI](https://openai.com/), [NVIDIA GEAR](https://research.nvidia.com/labs/gear/), [Tesla](https://www.tesla.com/), [Trexo Robotics](https://www.trexorobotics.com/), [Ford](https://www.ford.com/)
 
